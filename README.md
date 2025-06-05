@@ -1,4 +1,4 @@
-# 🇮🇳 Agentic AI Call Center for Indian Languages
+# Agentic AI Call Center
 
 A multilingual **AI-powered call center** that simulates **natural, human-like interactions** across **all Indian languages**. This project integrates **Text-to-Speech (TTS)**, **Large Language Models (LLMs)**, and **Agent-based architectures** to build scalable, humanized, and intelligent voice agents.
 
@@ -16,7 +16,7 @@ A multilingual **AI-powered call center** that simulates **natural, human-like i
 ---
 
 # Clone the repo
-git clone 
+git clone https://github.com/SrishtiTurki/Agentic-Call-Center-AI.git
 
 # Install all the dependencies
 pip install -r requirements.txt
